@@ -18,7 +18,7 @@ Pytorch: https://github.com/gordicaleksa/pytorch-GAT
    
    Code: https://github.com/piotrmp/fakestyle
 
-3. Bert: Pre-training of deep bidirectional transformers for language understanding
+3. Bert: Pre-training of deep bidirectional transformers for language understanding (NAACL 2019)
    
    Paper: https://arxiv.org/abs/1810.04805
    
